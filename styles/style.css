@@ -206,7 +206,7 @@ button.search-form__submit-button:active,
   text-decoration: none;
 }
 
-span.visually-hidden {
+.visually-hidden {
   position: absolute;
   inline-size: 1px;
   block-size: 1px;
