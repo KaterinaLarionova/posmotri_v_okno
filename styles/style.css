@@ -43,9 +43,6 @@ ol {
   min-height: 534px;
   display: flex;
   justify-content: center;
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%, -12%);
   gap:30px;
 }
 
